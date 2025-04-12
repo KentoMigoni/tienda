@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1">
+
+  <category>
+    <pattern>*</pattern>
+    <template>Lo siento, no entendí bien tu mensaje. ¿Podrías repetirlo o decirlo de otra forma? Estoy aquí para ayudarte con tus compras.</template>
+  </category>
+
+  <category>
+    <pattern>HOLA</pattern>
+    <template>Hola. Bienvenido a nuestra tienda en línea. ¿Qué estás buscando hoy?</template>
+  </category>
+
+  <category>
+    <pattern>PRODUCTOS</pattern>
+    <template>Tenemos una gran variedad de productos. ¿Estás buscando algo en ropa, accesorios o calzado?</template>
+  </category>
+
+  <category>
+    <pattern>PRECIO</pattern>
+    <template>Los precios varían según el producto. ¿Tienes alguno específico en mente para ayudarte mejor?</template>
+  </category>
+
+  <category>
+    <pattern>ENVIO</pattern>
+    <template>El envio es gratis en compras mayores a 500 pesos. Si no, cuesta 80 pesos.</template>
+  </category>
+
+  <category>
+    <pattern>PAGO</pattern>
+    <template>Aceptamos tarjetas de credito, debito y pagos por PayPal.</template>
+  </category>
+
+  <category>
+    <pattern>CAMBIO</pattern>
+    <template>Puedes hacer cambios dentro de los primeros 15 dias con el ticket de compra.</template>
+  </category>
+
+</aiml>
+
