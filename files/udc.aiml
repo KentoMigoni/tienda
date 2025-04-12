@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml version="1.0.1">
-
   <category>
     <pattern>*</pattern>
-    <template>Lo siento, no entendí bien tu mensaje. ¿Podrías repetirlo o decirlo de otra forma? Estoy aquí para ayudarte con tus compras.</template>
+    <template>Lo siento, no entendi bien tu mensaje. Podrias repetirlo o decirlo de otra forma? Estoy aqui para ayudarte con tus compras.</template>
   </category>
 
   <category>
     <pattern>HOLA</pattern>
-    <template>Hola. Bienvenido a nuestra tienda en línea. ¿Qué estás buscando hoy?</template>
+    <template>Hola. Bienvenido a nuestra tienda en linea. Que estas buscando hoy?</template>
   </category>
 
   <category>
     <pattern>PRODUCTOS</pattern>
-    <template>Tenemos una gran variedad de productos. ¿Estás buscando algo en ropa, accesorios o calzado?</template>
+    <template>Tenemos una gran variedad de productos. Estas buscando algo en ropa, accesorios o calzado?</template>
   </category>
 
   <category>
     <pattern>PRECIO</pattern>
-    <template>Los precios varían según el producto. ¿Tienes alguno específico en mente para ayudarte mejor?</template>
+    <template>Los precios varian segun el producto. Tienes alguno especifico en mente para ayudarte mejor?</template>
   </category>
 
   <category>
@@ -35,6 +34,4 @@
     <pattern>CAMBIO</pattern>
     <template>Puedes hacer cambios dentro de los primeros 15 dias con el ticket de compra.</template>
   </category>
-
 </aiml>
-
